@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Програма</string>
+
+    <string name="true_button">Правда</string>
+    <string name="false_button">Неправда</string>
+
+    <string name="correct_toast">Правильно!</string>
+    <string name="incorrect_toast">Неправильно!</string>
+
+    <string name="next_button_desc">Наступне питання</string>
+
+    <string name="question_1">Протокол HTTPS забезпечує шифрування за допомогою TLS/SSL?</string>
+    <string name="question_2">SQL-ін\'єкція відбувається на стороні браузера клієнта?</string>
+    <string name="question_3">Метод POST безпечніший за GET для передачі конфіденційних даних?</string>
+    <string name="question_4">Протокол UDP гарантує доставку пакетів без втрат.</string>
+    <string name="question_5">Симетричне шифрування використовує однаковий ключ для шифрування і дешифрування.</string>
+    <string name="question_6">Криптографічна хеш-функція є теоретично оборотною операцією.</string>
+    <string name="question_7">Операційна система Android побудована на ядрі Linux.</string>
+    <string name="question_8">Файл AndroidManifest.xml є необов\'язковим для Android-додатка.</string>
+</resources>
